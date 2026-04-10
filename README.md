@@ -49,7 +49,7 @@ Olá! Sou o Henrique Correa, desenvolvedor de software em constante evolução. 
     title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFPLXqRyw5PEl4ETnuzYuP5XhUI51sUdQzcg&s" 
+    src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fmysql_original_wordmark_logo_icon_146417.png&id=146417&pack_or_individual=pack" 
 />
 <img 
     align="left" 
@@ -57,7 +57,7 @@ Olá! Sou o Henrique Correa, desenvolvedor de software em constante evolução. 
     title="MongoDB"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEN6fDm89O6g-B0h3eEPmVlxQyhlU1cNS7tQ&s" 
+    src="https://camo.githubusercontent.com/7f452e55c9d4cad3f255ffa07bf14a6753ef3ff929233509606f272bdb4a20e0/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d706c61696e2d776f72646d61726b2e737667" 
 />
 <br/>
 <br/>
