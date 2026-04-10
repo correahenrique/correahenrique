@@ -34,7 +34,7 @@ Olá! Sou o Henrique Correa, desenvolvedor de software em constante evolução. 
     title="Javascript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fjavascript_original_logo_icon_146455.png&id=146455&pack_or_individual=pack[[        https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F512%2Fjavascript_original_logo_icon_146455.png&id=146455&pack_or_individual=pack)](https://camo.githubusercontent.com/5f9c88ee1da6ce5f954b5aa4902bdd20438598c332b6c71e405e4c2acc731176/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" 
+    src="https://camo.githubusercontent.com/df22f0f6e92a3c220bef13f20ead5619cb1e4162fa275feb64eb43d60b9fb0ff/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" 
 />
 
 <br/>
